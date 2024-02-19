@@ -92,6 +92,7 @@
 	- Operating Systems
 	- Software Engineering
 	- Artificial Intelligence(NLP, Computer Vision, Machine Learning, Deep Learning)
+ 	- Data Science
 	- Human Computer Interaction
 
 <br>
