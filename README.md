@@ -12,8 +12,8 @@
 
 <br>
 
-- Fullstack software developer
-- Computer Science graduate
+- Backend-Focused Fullstack Developer
+- Bachelor's in Computer Science
 
 <br><br>
 
@@ -32,24 +32,25 @@
 	- SQL(PostgreSQL, MySQL)
 	- NoSQL(MongoDB)
 	- C++
+ 	- Kotlin
 
 
 <br>   
     
-- **Front-End Development**:
+- **Frontend Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 <br>
 
-- **Frameworks**:
-  
-   ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
-   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+- **Backend Development**:
+
    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+   ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 <br>
 
@@ -62,10 +63,25 @@
 
 <br>
 
+- **Mobile Development**:
+  
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Jetpack Compose Badge](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=for-the-badge)
+
+<br>
+
+
 - **Devops**:
   
 	- Azure Devops
 	- Github Actions
+
+<br>
+
+- **SRE**:
+  
+	![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+	![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
 
 <br>
 
